@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "N Divided by 3 and 7/1.0.0": {
+        "runtime": {
+          "N Divided by 3 and 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N Divided by 3 and 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

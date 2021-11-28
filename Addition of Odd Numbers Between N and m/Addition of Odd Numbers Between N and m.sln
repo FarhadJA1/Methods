@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addition of Odd Numbers Between N and m", "Addition of Odd Numbers Between N and m\Addition of Odd Numbers Between N and m.csproj", "{148A53F4-499C-4ACC-9AAB-D760BEAEF21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148A53F4-499C-4ACC-9AAB-D760BEAEF21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148A53F4-499C-4ACC-9AAB-D760BEAEF21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148A53F4-499C-4ACC-9AAB-D760BEAEF21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148A53F4-499C-4ACC-9AAB-D760BEAEF21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD73E19A-6C55-4467-B392-5D80B6562566}
+	EndGlobalSection
+EndGlobal
